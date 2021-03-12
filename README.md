@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/stefano-quartuccio-9103ba157/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615576145~hmac=f74c0b86524db9ce664613fbba89c98c" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.instagram.com/stefano.quartuccio99/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615576210~hmac=c15d131161e215215ebe2fb067471a1a" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = "mailto: stefano.quartuccio@outlook.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href = "mailto: stefano.quartuccio@outlook.com"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/888/888903.svg?token=exp=1615576325~hmac=737f3c7103f2f90e1f7d3f505e91d680" height="30" width="40" /></a>
 </p>
 </p>
 
