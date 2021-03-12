@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="this slowpoke moves" height=400/>
+  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="this slowpoke moves" height=300/>
 </p>
 <hr>
 <h1 align="center">Hi <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047d29ab-efcd-43f8-9ed0-7ec01a552759/dbi503k-31ee8306-c36b-48ed-8eea-9a161599b24a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wNDdkMjlhYi1lZmNkLTQzZjgtOWVkMC03ZWMwMWE1NTI3NTkvZGJpNTAzay0zMWVlODMwNi1jMzZiLTQ4ZWQtOGVlYS05YTE2MTU5OWIyNGEuZ2lmIn1dXX0.hQeMhk1XoBAX5L5DV1lMwdbz4dY5A36lW_Ey956QPAA" width="60px">, I'm Stefano Quartuccio</h1>
