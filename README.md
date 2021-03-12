@@ -30,9 +30,9 @@
 ✔ I’m currently learning **ReactJS** & **NodeJS** & **Laravel**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I'm in love with Astronomy <br>
-✔ I'm in love with Machine Learning <br>
-✔ I'm in love with cats <br>
+✔ I'm in love with **Astronomy** <br>
+✔ I'm in love with **Machine Learning** <br>
+✔ I'm in love with **Cats** & **Dogs** <br>
 ✔ Ask me about anything, I am happy to help when i have free time<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
