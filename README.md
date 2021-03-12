@@ -23,19 +23,21 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/source.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/Him***  <br>
 ✔ I’m currently Developing **WebSite** & **Web App**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS** & **Laravel**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I'm in love with Astronomy & Machine Learning <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ I'm in love with Astronomy <br>
+✔ I'm in love with Machine Learning <br>
+✔ I'm in love with cats <br>
+✔ Ask me about anything, I am happy to help when i have free time<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/source.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
 
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
