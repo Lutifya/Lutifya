@@ -25,7 +25,6 @@
 
 <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/source.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/Him***  <br>
 ✔ I’m currently Developing **WebSite** & **Web App**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS** & **Laravel**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
