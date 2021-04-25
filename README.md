@@ -4,11 +4,7 @@
 <hr>
 <h1 align="center">Hi <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047d29ab-efcd-43f8-9ed0-7ec01a552759/dbi503k-31ee8306-c36b-48ed-8eea-9a161599b24a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wNDdkMjlhYi1lZmNkLTQzZjgtOWVkMC03ZWMwMWE1NTI3NTkvZGJpNTAzay0zMWVlODMwNi1jMzZiLTQ4ZWQtOGVlYS05YTE2MTU5OWIyNGEuZ2lmIn1dXX0.hQeMhk1XoBAX5L5DV1lMwdbz4dY5A36lW_Ey956QPAA" width="60px">, I'm Stefano Quartuccio</h1>
 <h3 align="center">Software Engineer | Data Scientist </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/stefano-quartuccio-9103ba157/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615576145~hmac=f74c0b86524db9ce664613fbba89c98c" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.instagram.com/stefano.quartuccio99/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615576210~hmac=c15d131161e215215ebe2fb067471a1a" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = "mailto: stefano.quartuccio@outlook.com"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/888/888903.svg?token=exp=1615576325~hmac=737f3c7103f2f90e1f7d3f505e91d680" height="30" width="40" /></a>
-</p>
+
 </p>
 
 
