@@ -1,58 +1,78 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="this slowpoke moves" height=300/>
-</p>
-<hr>
-<h1 align="center">Hi <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047d29ab-efcd-43f8-9ed0-7ec01a552759/dbi503k-31ee8306-c36b-48ed-8eea-9a161599b24a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wNDdkMjlhYi1lZmNkLTQzZjgtOWVkMC03ZWMwMWE1NTI3NTkvZGJpNTAzay0zMWVlODMwNi1jMzZiLTQ4ZWQtOGVlYS05YTE2MTU5OWIyNGEuZ2lmIn1dXX0.hQeMhk1XoBAX5L5DV1lMwdbz4dY5A36lW_Ey956QPAA" width="60px">, I'm Stefano Quartuccio</h1>
-<h3 align="center">Software Engineer | Data Scientist </h3>
+<p align="center"> <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Robot working" height="200"/> </p> <h1 align="center">Hi 👋, I'm Stefano Quartuccio</h1> <h3 align="center">Master’s Student in Data Science | Software Engineer | AI & NLP Enthusiast</h3>
+👨‍💻 About Me
 
-</p>
+I'm a master's student in Data Science at <a href="https://www.unimib.it">Università degli Studi di Milano Bicocca</a>, specializing in Artificial Intelligence, Natural Language Processing and Deep Learning. My passion for AI drives me to create robust and innovative solutions. For my thesis I'm building a Retrieval‑Augmented Generation (RAG) based semantic search engine, fine‑tuning a 20‑billion‑parameter language model to improve legal information retrieval.
 
+In parallel, I work as a Software Engineer at ELibra Srl, where I develop back‑end services using Java and Spring Boot within Agile teams. Previously I've been a junior developer in web and mobile projects, giving me a solid full‑stack background.
 
+🧠 AI & ML Interests
 
-<p align="center">
-  <em>
-    Hello i'm Stefano Quartuccio, currently studying <b>Computer Science</b> at <a href="https://www.unimib.it"> <b>Università degli Studi di Milano Biccoca</b>,</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself.
-</p>
+Natural Language Processing & Large Language Model fine‑tuning
 
+Retrieval‑Augmented Generation (RAG) and semantic search
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+Vector databases and efficient information retrieval
 
-<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/source.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+Machine Learning & Deep Learning research
 
-✔ I’m currently Developing **WebSite** & **Web App**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS** & **Laravel**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I'm in love with **Astronomy** <br>
-✔ I'm in love with **Machine Learning** <br>
-✔ I'm in love with **Cats** & **Dogs** <br>
-✔ Ask me about anything, I am happy to help when i have free time<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
- 
+🛠️ Tech Stack
+Languages & Frameworks
 
-<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/source.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
+Libraries & Tools
 
-  <hr>
-  <p align="center">
+PyTorch • Hugging Face Transformers • LangChain
 
+Scikit‑learn • NumPy • Pandas
+
+Git • Docker • Jira • Scrum
+
+🎓 Education
+
+Master’s Degree in Data Science (2022–present, expected Oct 2025)
+Università degli Studi di Milano Bicocca — specialization in Artificial Intelligence, Natural Language Processing & Deep Learning
+
+Bachelor’s Degree in Informatics (2019–2022)
+Università degli Studi di Milano Bicocca
+
+💼 Experience
+
+Software Engineer — ELibra Srl (May 2022 – Present)
+Designing and maintaining back‑end systems with Java & Spring Boot following TDD and Agile practices.
+
+Junior Web Developer — RC‑INFO Srl (Apr 2021 – Apr 2022)
+
+iOS/Android Junior Developer — Playtime Mobile Srl (Feb 2020 – Aug 2020)
+
+Junior Developer (Internship) — Link‑Up Srl (Dec 2018 – Dec 2019)
+
+📚 Projects
+
+Master’s Thesis: Enhancing Legal Workflows: Design and Evaluation of a RAG‑Based Semantic Search Engine
+Developing an end‑to‑end RAG system for legal document retrieval, including fine‑tuning a 20‑B parameter language model and managing vector databases for efficient indexing and retrieval.
+
+🤍 Interests & Hobbies
+
+Astronomy and space exploration
+
+Machine Learning & AI research
+
+Caring for cats & dogs 🐱🐶
+
+📫 Get in Touch
+
+Email: <a href="mailto:stefano.quartuccio@outlook.com">stefano.quartuccio@outlook.com
+</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/stefano-quartuccio">linkedin.com/in/stefano-quartuccio</a>
+
+GitHub: <a href="https://github.com/Lutifya">github.com/Lutifya</a>
+
+<p align="center"> <em>"Keep exploring, keep learning, and never stop coding!"</em> </p> <p align="center"> <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Coding unicorn" width="200"/> </p>
